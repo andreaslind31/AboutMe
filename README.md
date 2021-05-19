@@ -1,6 +1,6 @@
 # Yo :wave:
 
-I'm a .net student living in Varberg. 
+I'm a .net student. 
 
 
 :construction_worker:
