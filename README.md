@@ -1,7 +1,7 @@
 ## Yo
 
 
-**Currently learning**: 
-*ASP.Net MVC with C#
-*TypeScript
-*Vue.js.
+**Currently learning** :
+1. ASP.Net MVC with C#
+1. TypeScript
+1. Vue.js.
