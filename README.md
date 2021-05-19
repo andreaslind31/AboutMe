@@ -1,7 +1,12 @@
-## Yo
+# Yo :wave:
+
+I'm a .net student living in Varberg. 
 
 
-**Currently learning** :
-1. ASP.Net MVC with C#
-1. TypeScript
-1. Vue.js.
+:construction_worker:
+
+
+**Currently learning to build apps in** : 
+* ASP.Net MVC with C#
+* TypeScript
+* Vue.js.
