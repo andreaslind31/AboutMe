@@ -1,12 +1,12 @@
 # Yo :wave:
 
-I'm a .net student. 
+I'm a .NET student. 
 
 
 :construction_worker:
 
 
 **Currently learning to build apps in** : 
-* ASP.Net MVC with C#
+* ASP.NET MVC with C#
 * TypeScript
 * Vue.js.
