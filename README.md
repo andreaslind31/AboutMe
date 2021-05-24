@@ -6,7 +6,7 @@ I'm a .NET student.
 :construction_worker:
 
 
-**Currently learning to build apps in** : 
+**Currently learning** : 
 * ASP.NET MVC with C#
-* TypeScript
+* JavaScript
 * Vue.js.
