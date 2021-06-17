@@ -10,3 +10,4 @@ I'm a .NET student.
 * ASP.NET MVC with C#
 * JavaScript
 * Vue.js.
+* Go
