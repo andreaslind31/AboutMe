@@ -7,7 +7,7 @@ I'm a .NET student.
 
 
 **Currently learning** : 
-* ASP.NET MVC with C#
+* ASP.NET MVC
 * JavaScript
 * Vue.js.
 * Go
