@@ -1,11 +1,10 @@
 <h1 align="center">👋 I'm Andreas Lind</h1>
-<h4 align="center">I'm a .NET student. </h4>
 <p align="center"> <a href="https://linkedin.com/in/andreas.lind31" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGtKXPSVMqHfw/profile-displayphoto-shrink_800_800/0/1598905508257?e=1636588800&v=beta&t=cyKmdv3WbNT_5l5Ha1TxIHuNa9uCiEKpm-7YSjXbkdE" width="250px" alt="pic" /> </a> </p>
+<h3 align="left">I'm a .NET student. </h3>
 
-
-- 🔭 I’m currently working on my excercises from Campus Varberg but also an ASP.NET MVC-project to a client. Will be published this autumn 2021.
-- 🌱 I’m currently learning **.NET 5/.NET core 3.1, Go, JavaScript, CSS/HTML, Vue and preparing for my internship at [Fast track](https://www.fasttrack-solutions.com/en)**
-- 📝 I regularly read articles on <a href="https://medium.com/"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/medium-logo.png" height="40" width="300" /></a> currently: [This article series: Social application with Vue.js and Go](https://ivano-dalmasso.medium.com/)
+- 🔭 Working on my excercises from Campus Varberg but also an ASP.NET MVC-project to a client. Will be published this autumn 2021.
+- 🌱 Currently learning **.NET 5/.NET core 3.1, Go, JavaScript, CSS/HTML, Vue and preparing for my internship at [Fast track](https://www.fasttrack-solutions.com/en)**
+- 📝 I regularly read articles on <a href="https://medium.com/"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/medium-logo.png" height="40" width="300" /></a> currently this article series: [Social application with Vue.js and Go](https://ivano-dalmasso.medium.com/)
 - 📫 How to reach me: **andreaslind31@gmail.com**  or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
 
 <h3 align="left">Connect with me:</h3>
