@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Andreas Lind</h1>
-<p align="center"> <a href="https://linkedin.com/in/andreas.lind31" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGtKXPSVMqHfw/profile-displayphoto-shrink_800_800/0/1598905508257?e=1636588800&v=beta&t=cyKmdv3WbNT_5l5Ha1TxIHuNa9uCiEKpm-7YSjXbkdE" width="250px" alt="pic" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/andreas-lind31/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGtKXPSVMqHfw/profile-displayphoto-shrink_800_800/0/1598905508257?e=1636588800&v=beta&t=cyKmdv3WbNT_5l5Ha1TxIHuNa9uCiEKpm-7YSjXbkdE" width="250px" alt="pic" /> </a> </p>
 <h3 align="left">I'm a .NET student. </h3>
 
 - 🔭 Working on my excercises from Campus Varberg but also an ASP.NET MVC-project to a client. Will be published this autumn 2021.
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andreas.lind31" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andreas-lind31/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://medium.com/@andreaslind31" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
