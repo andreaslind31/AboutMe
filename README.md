@@ -1,6 +1,7 @@
 <h1 align="center">👋 I'm Andreas Lind</h1>
-<p align="center"> <a href="https://www.linkedin.com/in/andreas-lind31/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGtKXPSVMqHfw/profile-displayphoto-shrink_800_800/0/1598905508257?e=1636588800&v=beta&t=cyKmdv3WbNT_5l5Ha1TxIHuNa9uCiEKpm-7YSjXbkdE" width="250px" alt="pic" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/andreas-lind31/"> <img src="https://user-images.githubusercontent.com/70567910/137749705-66485ce1-c8ef-42af-872e-8202a6172879.jpg" width=500px; /> </a> </p>
 <h3 align="left">I'm a .NET student. </h3>
+
 
 - 🔭 Working on my excercises from Campus Varberg but also an ASP.NET MVC-project to a client. Will be published this autumn 2021.
 - 🌱 Currently learning **.NET 5/.NET core 3.1, Go, JavaScript, CSS/HTML, Vue and preparing for my internship at [Fast track](https://www.fasttrack-solutions.com/en)**
