@@ -3,10 +3,10 @@
 <h3 align="left">I'm a .NET student. </h3>
 
 
-- 🔭 Working on my excercises from Campus Varberg but also an ASP.NET MVC-project to a client. Will be published this autumn 2021.
-- 🌱 Currently learning **.NET 5/.NET core 3.1, Go, JavaScript, CSS/HTML, Vue and preparing for my internship at [Fast track](https://www.fasttrack-solutions.com/en)**
+- 🔭 **Recently released the first working version of: [booking.greenroomtraining.se](http://www.booking.greenroomtraining.se/Workouts)** which is a booking site for  [greenroomtraining.se](http://www.booking.greenroomtraining.se). An ASP.NET MVC app. Developed with: [Einar Olafsson](https://github.com/Theinar), [Émile Nestor](https://github.com/emilenestor), [Johannes Posse](https://github.com/johannesposse) & [Olof Svahn](https://github.com/OlofSvahn)
+- 🌱 Currently learning **.NET 5, Go, JavaScript, CSS/HTML, Vue and preparing for my internship at [Fast track](https://www.fasttrack-solutions.com/en)**
 - 📝 I regularly read articles on <a href="https://medium.com/"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/medium-logo.png" height="40" width="300" /></a> currently this article series: [Social application with Vue.js and Go](https://ivano-dalmasso.medium.com/)
-- 📫 How to reach me: **andreaslind31@gmail.com**  or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
+- 📫 Reach me at: **andreaslind31@gmail.com**  or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
