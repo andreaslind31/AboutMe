@@ -1,12 +1,13 @@
 <h1 align="center">👋 I'm Andreas Lind</h1>
 <p align="center"> <a href="https://www.linkedin.com/in/andreas-lind31/"> <img src="https://user-images.githubusercontent.com/70567910/137749705-66485ce1-c8ef-42af-872e-8202a6172879.jpg" width=500px; /> </a> </p>
-<h3 align="left">I'm a .NET student. </h3>
+<h3 align="left">I'm a software developer student.</h3>
 
 
-- 🔭 **Recently released the first working version of: [booking.greenroomtraining.se](http://www.booking.greenroomtraining.se/Workouts)** which is a booking site for  [greenroomtraining.se](http://www.booking.greenroomtraining.se). An ASP.NET MVC app. Developed with: [Einar Olafsson](https://github.com/Theinar), [Émile Nestor](https://github.com/emilenestor), [Johannes Posse](https://github.com/johannesposse) & [Olof Svahn](https://github.com/OlofSvahn)
-- 🌱 Currently learning **.NET 5, Go, JavaScript, CSS/HTML, Vue and doing my internship at [Fast track](https://www.fasttrack-solutions.com/en)**
-- 📝 I regularly read articles on <a href="https://medium.com/">Medium <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-- 📫 Reach me at: **andreaslind31@gmail.com**  or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
+- 🔭 **Recently released** the first working version of **[booking.greenroomtraining.se](http://www.booking.greenroomtraining.se/Workouts)** which is a booking site for  [greenroomtraining.se](http://www.booking.greenroomtraining.se). An ASP.NET MVC app. Developed with: [Einar Olafsson](https://github.com/Theinar), [Émile Nestor](https://github.com/emilenestor), [Johannes Posse](https://github.com/johannesposse) & [Olof Svahn](https://github.com/OlofSvahn)
+- 🌱 **Currently learning** Go, JavaScript, CSS/HTML, Vue, Nuxt
+- 💻 Doing my internship at [Fast Track](https://www.fasttrack-solutions.com/en)
+- 📝 I regularly read articles on <a href="https://medium.com/">Medium</a>
+- 📫 Reach me at: andreaslind31@gmail.com or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
