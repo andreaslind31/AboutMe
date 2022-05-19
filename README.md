@@ -5,9 +5,9 @@
 
 - 🔭 **Recently released** the first working version of **[booking.greenroomtraining.se](http://www.booking.greenroomtraining.se/Workouts)** which is a booking site for  [greenroomtraining.se](http://www.booking.greenroomtraining.se). An ASP.NET MVC app. Developed with: [Einar Olafsson](https://github.com/Theinar), [Émile Nestor](https://github.com/emilenestor), [Johannes Posse](https://github.com/johannesposse) & [Olof Svahn](https://github.com/OlofSvahn)
 - 🌱 **Currently learning** Go, JavaScript, CSS/HTML, Vue, Nuxt
-- 💻 Doing my internship at [Fast Track](https://www.fasttrack-solutions.com/en)
-- 📝 I regularly read articles on <a href="https://medium.com/">Medium</a>
-- 📫 Reach me at: andreaslind31@gmail.com or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
+- 💻 **Doing my internship** at [Fast Track](https://www.fasttrack-solutions.com/en)
+- 📝 I **regularly read articles** on <a href="https://medium.com/">Medium</a>
+- 📫 **Reach me** at: andreaslind31@gmail.com or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,6 @@
  </p>
 <br>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreaslind31&show_icons=true&locale=en&layout=compact" alt="andreaslind31Stats" />
-<br> 
-  
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=andreaslind31&label=Profile%20views&color=0e75b6&style=flat" alt="andreaslind31Views" /> </p>
