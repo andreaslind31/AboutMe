@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Andreas Lind</h1>
 <p align="center"> <a href="https://www.linkedin.com/in/andreas-lind31/"> <img src="https://user-images.githubusercontent.com/70567910/137749705-66485ce1-c8ef-42af-872e-8202a6172879.jpg" width=500px; /> </a> </p>
-<h3 align="left">I'm a software developer student.</h3>
+<h3 align="left">I'm a newly graduated software developer.</h3>
 
 
 - 🔭 **Recently released** the first working version of **[booking.greenroomtraining.se](http://www.booking.greenroomtraining.se/Workouts)** which is a booking site for  [greenroomtraining.se](http://www.booking.greenroomtraining.se). An ASP.NET MVC app. Developed with: [Einar Olafsson](https://github.com/Theinar), [Émile Nestor](https://github.com/emilenestor), [Johannes Posse](https://github.com/johannesposse) & [Olof Svahn](https://github.com/OlofSvahn)
