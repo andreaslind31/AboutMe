@@ -4,8 +4,8 @@
 
 
 - 🔭 **Recently released** the first working version of **[booking.greenroomtraining.se](http://www.booking.greenroomtraining.se/Workouts)** which is a booking site for  [greenroomtraining.se](http://www.booking.greenroomtraining.se). An ASP.NET MVC app. Developed with: [Einar Olafsson](https://github.com/Theinar), [Émile Nestor](https://github.com/emilenestor), [Johannes Posse](https://github.com/johannesposse) & [Olof Svahn](https://github.com/OlofSvahn)
-- 🌱 **Currently learning** Go, JavaScript, CSS/HTML, Vue, Nuxt
-- 💻 **Doing my internship** at [Fast Track](https://www.fasttrack-solutions.com/en)
+- 🌱 **Currently learning** Go, JavaScript, Vue, Nuxt, Docker, Kubernetes
+- 💻 **Working** as a Junior Software Engineer at [Fast Track](https://www.fasttrack-solutions.com/en)
 - 📝 I **regularly read articles** on <a href="https://medium.com/">Medium</a>
 - 📫 **Reach me** at: andreaslind31@gmail.com or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
 
