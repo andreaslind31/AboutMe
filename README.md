@@ -7,9 +7,10 @@
 - 🌱 **Currently learning** Go, JavaScript, Vue, Nuxt, Docker, Kubernetes
 - 💻 **Working** as a Junior Software Engineer at [Fast Track](https://www.fasttrack-solutions.com/en)
 - 📝 I **regularly read articles** on <a href="https://medium.com/">Medium</a>
+- 🐣 My **[Exercism](https://exercism.org/dashboard) account**: [andreaslind31](https://exercism.org/profiles/andreaslind31)
 - 📫 **Reach me** at: andreaslind31@gmail.com or DM on [LinkedIn](https://www.linkedin.com/in/andreas-lind31/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/andreas-lind31/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://medium.com/@andreaslind31" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
